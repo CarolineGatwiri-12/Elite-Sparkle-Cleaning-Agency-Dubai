@@ -1,0 +1,12 @@
+{
+  "name": "Elite Sparkle Cleaning Dubai",
+  "description": "Premium home and office cleaning services in Dubai. Professional, reliable, and family-run with a luxury touch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Service Bookings",
+    "WhatsApp Integration",
+    "Multilingual Support"
+  ]
+}
